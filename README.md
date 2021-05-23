@@ -1,6 +1,11 @@
 # ezpycolor
 simple colorization of strings in Python
 
+### Installation
+```
+pip install ezpycolor
+```
+
 ### Example Output
 ![ezpycolor-example-output.PNG](https://github.com/bonifield/ezpycolor/raw/main/ezpycolor-example-output.PNG)
 
