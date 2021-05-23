@@ -1,4 +1,4 @@
-# ez-color
+# ezpycolor
 simple colorization of strings in Python
 
 ### Example Output
