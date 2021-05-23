@@ -1,8 +1,10 @@
 # ez-color
 simple colorization of strings in Python
+
+### Example Output
 ![ezpycolor-example-output.PNG](https://github.com/bonifield/ezpycolor/raw/main/ezpycolor-example-output.PNG)
 
-### Usage Example
+### Usage
 ```
 from ezpycolor import *
 
